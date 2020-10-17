@@ -24,6 +24,7 @@
 		6D020034253A3C4B001C8335 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6D020056253B4939001C8335 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		6D02005A253B4E6C001C8335 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		6D02005D253B51A0001C8335 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +43,7 @@
 			children = (
 				6D02002A253A3C48001C8335 /* CupcakeCorner */,
 				6D020029253A3C48001C8335 /* Products */,
+				6D02005D253B51A0001C8335 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
