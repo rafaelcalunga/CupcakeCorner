@@ -13,6 +13,7 @@
 		6D020033253A3C4B001C8335 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6D020032253A3C4B001C8335 /* Preview Assets.xcassets */; };
 		6D020057253B4939001C8335 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D020056253B4939001C8335 /* Order.swift */; };
 		6D02005B253B4E6C001C8335 /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D02005A253B4E6C001C8335 /* AddressView.swift */; };
+		6D02005F253B5534001C8335 /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D02005E253B5534001C8335 /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		6D020056253B4939001C8335 /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		6D02005A253B4E6C001C8335 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
 		6D02005D253B51A0001C8335 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		6D02005E253B5534001C8335 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,11 +62,12 @@
 			children = (
 				6D02002B253A3C48001C8335 /* CupcakeCornerApp.swift */,
 				6D02002D253A3C48001C8335 /* ContentView.swift */,
+				6D02005A253B4E6C001C8335 /* AddressView.swift */,
+				6D02005E253B5534001C8335 /* CheckoutView.swift */,
 				6D020056253B4939001C8335 /* Order.swift */,
 				6D02002F253A3C4B001C8335 /* Assets.xcassets */,
 				6D020034253A3C4B001C8335 /* Info.plist */,
 				6D020031253A3C4B001C8335 /* Preview Content */,
-				6D02005A253B4E6C001C8335 /* AddressView.swift */,
 			);
 			path = CupcakeCorner;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				6D020057253B4939001C8335 /* Order.swift in Sources */,
 				6D02005B253B4E6C001C8335 /* AddressView.swift in Sources */,
+				6D02005F253B5534001C8335 /* CheckoutView.swift in Sources */,
 				6D02002E253A3C48001C8335 /* ContentView.swift in Sources */,
 				6D02002C253A3C48001C8335 /* CupcakeCornerApp.swift in Sources */,
 			);
