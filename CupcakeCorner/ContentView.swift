@@ -30,15 +30,18 @@ struct ContentView: View {
                     Toggle(isOn: $order.specialRequestEnabled.animation()) {
                         Text("Any special requests?")
                     }
+                    .toggleStyle(SwitchToggleStyle(tint: .pink))
                     
                     if order.specialRequestEnabled {
                         Toggle(isOn: $order.extraFrosting) {
                             Text("Add extra frosting")
                         }
+                        .toggleStyle(SwitchToggleStyle(tint: .pink))
                         
                         Toggle(isOn: $order.addSprinkles) {
                             Text("Add extra sprinkles")
                         }
+                        .toggleStyle(SwitchToggleStyle(tint: .pink))
                     }
                 }
                 
