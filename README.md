@@ -11,5 +11,6 @@ I learned how to:
 - Add Codable conformance for @Published properties
 - Send and receive Codable data with URLSession and SwiftUI
 - Validate and disable forms
+- Encode an ObservableObject class
 
 This app was made using the course **100 Days of SwiftUI** from [Hacking With Swift](https://www.hackingwithswift.com/100/swiftui/)
