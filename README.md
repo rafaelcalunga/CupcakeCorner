@@ -2,6 +2,8 @@
 
 This app is a multi-screen app for ordering cupcakes.
 
+![CupcakeCorner](https://github.com/rafaelcalunga/CupcakeCorner/blob/main/cupcake-corner.gif)
+
 I made this project to improve my knowledge in iOS development, specially SwiftUI.
 
 I learned how to:

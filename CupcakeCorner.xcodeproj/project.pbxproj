@@ -27,6 +27,7 @@
 		6D02005A253B4E6C001C8335 /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
 		6D02005D253B51A0001C8335 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		6D02005E253B5534001C8335 /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
+		6DD1FE95253F5F14007FE156 /* cupcake-corner.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "cupcake-corner.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +46,7 @@
 			children = (
 				6D02002A253A3C48001C8335 /* CupcakeCorner */,
 				6D020029253A3C48001C8335 /* Products */,
+				6DD1FE95253F5F14007FE156 /* cupcake-corner.gif */,
 				6D02005D253B51A0001C8335 /* README.md */,
 			);
 			sourceTree = "<group>";
